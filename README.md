@@ -39,9 +39,9 @@ Open terminal and try execute some kali linux commands
 ![dnse1](https://github.com/Reebak04/Enumeration/assets/118364993/f4f23195-a6a9-4dbf-8483-94770faf91f4)
 ![dnse2](https://github.com/Reebak04/Enumeration/assets/118364993/e50cd108-243d-4849-aa93-8052d1b0db11)
 ## smtp-user-enum:
-
+![smtp](https://github.com/Reebak04/Enumeration/assets/118364993/3d40d01f-31d1-4144-90e5-c90d336a3de8)
 ## nmap –script smtp-enum-users.nse <hostname>:
-
+![smtps](https://github.com/Reebak04/Enumeration/assets/118364993/173bffb2-9bd9-4b67-ae7d-d1a2098725b6)
 ## RESULT:
 The Google hacking keywords and enumeration tools were identified and executed successfully
 
