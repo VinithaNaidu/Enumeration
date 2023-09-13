@@ -34,12 +34,15 @@ Open terminal and try execute some kali linux commands
 
 ## DNS Enumeration:
 ## DNS Recon:
+![dnsrecon](https://github.com/Reebak04/Enumeration/assets/118364993/fe4fa83a-0167-4101-8350-8309b44050ce)
 
 ## dnsenum:
 
 ## smtp-user-enum:
+![dnse1](https://github.com/Reebak04/Enumeration/assets/118364993/fb0a1bed-a214-4c99-89fd-2e0a453cc767)
 
 ## nmap –script smtp-enum-users.nse <hostname>
+![dnse2](https://github.com/Reebak04/Enumeration/assets/118364993/875147fa-f20f-446f-a9d0-c130e77b3b9a)
 
 ## RESULT:
 The Google hacking keywords and enumeration tools were identified and executed successfully
