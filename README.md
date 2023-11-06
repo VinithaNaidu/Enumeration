@@ -44,4 +44,3 @@ Open terminal and try execute some kali linux commands
 ![smtps](https://github.com/Reebak04/Enumeration/assets/118364993/173bffb2-9bd9-4b67-ae7d-d1a2098725b6)
 ## RESULT:
 The Google hacking keywords and enumeration tools were identified and executed successfully
-
